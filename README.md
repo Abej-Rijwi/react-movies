@@ -321,4 +321,4 @@ export default Spinner
 
 ## <a name="links">🔗 Assets</a>
 
-Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1u5uDRYBtR_NJgaY08StRGOIV9rmD2ahR?usp=sharing)
+- Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1u5uDRYBtR_NJgaY08StRGOIV9rmD2ahR?usp=sharing)
