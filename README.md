@@ -319,7 +319,6 @@ export default Spinner
 ```
 </details>
 
-
 ## <a name="links">🔗 Assets</a>
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/react25-kit](https://drive.google.com/drive/folders/1u5uDRYBtR_NJgaY08StRGOIV9rmD2ahR?usp=sharing)**.
+Public assets used in the project can be found [here](https://drive.google.com/drive/folders/1u5uDRYBtR_NJgaY08StRGOIV9rmD2ahR?usp=sharing)
